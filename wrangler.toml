@@ -1,0 +1,8 @@
+name = "sanum-updates"
+main = "src/index.ts"
+compatibility_date = "2026-05-01"
+
+# GITHUB_OWNER, GITHUB_REPO, and GITHUB_TOKEN are set out of band as secrets:
+#   pnpm wrangler secret put GITHUB_OWNER
+#   pnpm wrangler secret put GITHUB_REPO
+#   pnpm wrangler secret put GITHUB_TOKEN
