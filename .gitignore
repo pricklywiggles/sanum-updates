@@ -1,6 +1,7 @@
 node_modules
 .wrangler
 .dev.vars
+.env*
 .claude
 .cursor
 .DS_Store
